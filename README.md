@@ -1,4 +1,4 @@
-# Plotly-in-Python
+# Play around Plotly-in-Python
 Playing around interactive visualization tool--Plotly in Python
 
 Github doesn't rendered the Plotly charts, but we can open the notebook via nbviewer(http://nbviewer.jupyter.org/) to display charts. 
